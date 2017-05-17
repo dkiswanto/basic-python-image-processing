@@ -1,0 +1,21 @@
+.main {
+  padding-top: 60px;
+}
+
+button {
+  margin: 100px;
+}
+
+#upload-image {
+  display: none;
+  z-index: -1;
+}
+
+.menu {
+  z-index: 1001!important;
+}
+
+.ui.grid>.row {
+  padding-top: 1rem !important;
+  padding-bottom: 0.5rem !important;
+}
